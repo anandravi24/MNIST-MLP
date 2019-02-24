@@ -25,7 +25,9 @@ This code will help you understand the relationship between hyperparameters and 
       Learning Rate: 0.05<br>
  </pre>
  
-  
+ *NOTE* <br>
+ 
+ The model trains on first 60,000 images and validates on the last 10,000 images. The training data is already shuffled.
   
   
 
