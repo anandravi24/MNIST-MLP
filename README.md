@@ -17,7 +17,7 @@ This code will help you understand the relationship between hyperparameters and 
 <pre>  
  In the terminal run the following line:
 
- $ python3 Backpropogation.py 200,100 50 100 0.05
+ $ python3 MNIST-MLP.py 200,100 50 100 0.05
  
  Here,<br> Network_Configuration : 200,100 [200 neurons in hidden layer and 100 neurons in the second hidden layer]<br>
       Epochs: 50<br>
