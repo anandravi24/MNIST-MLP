@@ -19,7 +19,7 @@ This code will help you understand the relationship between hyperparameters and 
 
  $ python3 MNIST-MLP.py 200,100 50 100 0.05
  
- Here,<br> Network_Configuration : 200,100 [200 neurons in hidden layer and 100 neurons in the second hidden layer]<br>
+ Here,<br> Network_Configuration : 200,100 [200 neurons in first hidden layer and 100 neurons in the second hidden layer]<br>
       Epochs: 50<br>
       Minibatch : 100<br>
       Learning Rate: 0.05<br>
