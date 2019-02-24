@@ -1,4 +1,4 @@
- MNIST classifier using MLP
+ #MNIST classifier using MLP
  
 This code will help you understand the relationship between hyperparameters and model learning. User can adjust the number of hidden layers, nuerons in the hidden layers, number of epochs and the learning rate and see the effects on the validation accuracy of the dataset mentioned below 
  
