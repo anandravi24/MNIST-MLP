@@ -2,7 +2,7 @@
 # Author : Anand Ravi                                                                                           #
 # Program : Implementation of Multi-Layer Perceptron                                                            #
 # Arguments :  < Network Configuration [Seperated by comma]> < Epochs > < Minibatch Size > < Learning Rate >    #
-# Example: python3 Backpropogation.py 200,100,50 50 100 0.01                                                    #
+# Example: python3 MNIST-MLP.py 200,100,50 50 100 0.01                                                          #
 # Email : anandrav@usc.edu                                                                                      #
 #################################################################################################################
 
